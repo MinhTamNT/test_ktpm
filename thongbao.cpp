@@ -7,5 +7,5 @@ int main{
 	cout << "Tong phep toan = " << a + b << endl;
 	return 0;
 	// new update on feature4
-	
+	// function moi tao tren main
 }
